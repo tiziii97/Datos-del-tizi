@@ -3,14 +3,14 @@
 ### Operadores Aritméticos ###
 
 # Operaciones con enteros
-print(3 + 4)
-print(3 - 4)
-print(3 * 4)
-print(3 / 4)
-print(10 % 3)
-print(10 // 3)
-print(2 ** 3)
-print(2 ** 3 + 3 - 7 / 1 // 4)
+print(5 + 4)
+print(5 - 4)
+print(5 * 4)
+print(5 / 4)
+print(15 % 3)
+print(15 // 3)
+print(5 ** 3)
+print(5 ** 3 + 3 - 7 / 1 // 4)
 
 # Operaciones con cadenas de texto
 print("Hola " + "Python " + "¿Qué tal?")
