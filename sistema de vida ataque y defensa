@@ -1,0 +1,13 @@
+import  random 
+nombres = ["yamal","lewandowski", "rahinha"];
+razas = ["humano", "alien","demonio"];
+clases = ["guerrero", "invocador", "Arquero"];
+num=random.randint(0,14);
+vida = random.randint(50,100);
+ataque = random.randint(10,50);
+defensa = random.randint(5,30);
+print("Su personaje es: ",nombres[num],  "\nraza:", razas[num], "\nclase: ", clases[num])
+print("Sus estadisticas son: ")
+print("vida: ",vida)
+print("ataque: ",ataque)
+print("defensa: ",defensa
